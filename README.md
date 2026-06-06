@@ -81,24 +81,23 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=d7mo25&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7mo25&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=300" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=d7mo25&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<!-- Awesome GitHub Stats — hosted on Azure, not Vercel, actively maintained -->
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/d7mo25?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
  
 <br/>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d7mo25&theme=github-compact&hide_border=true&area=true)
+<!-- Shields.io — infrastructure-grade, never goes down -->
+![Followers](https://img.shields.io/github/followers/d7mo25?style=for-the-badge&color=0e75b6&labelColor=1c1917&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/d7mo25?style=for-the-badge&color=ffd700&labelColor=1c1917&logo=github&label=Total%20Stars)
+ 
+<br/>
+<!-- GitHub Streak — demolab, the official maintained fork -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=d7mo25&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+ 
+<br/>
+<!-- Activity Graph — separate service from readme-stats, still working -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d7mo25&theme=github-compact&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
-
 
 ---
 

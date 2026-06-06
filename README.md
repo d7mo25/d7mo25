@@ -79,20 +79,26 @@
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=d7mo25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=d7mo25&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7mo25&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=300" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 <br/>
-
-<img src="https://github-readme-streak-stats-ten.vercel.app/?user=d7mo25&theme=dark&hide_border=false" alt="GitHub Streak" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=d7mo25&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+ 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7mo25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d7mo25&theme=github-compact&hide_border=true&area=true)
+ 
 </div>
+
 
 ---
 

@@ -84,7 +84,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=d7mo25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d7mo25&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=d7mo25&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7mo25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 

@@ -86,7 +86,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=d7mo25&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-ten.vercel.app/?user=d7mo25&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 <br/>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=d7mo25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=d7mo25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
